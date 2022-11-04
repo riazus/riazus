@@ -1,4 +1,4 @@
-[![jannabel's 42 stats](https://badge42.vercel.app/api/v2/cla1msnrr00060fl896uvr505/stats?cursusId=21&coalitionId=47)]
+
 <!--
 **riazus/riazus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
