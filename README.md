@@ -5,7 +5,7 @@
 ### Well met 👋 
 ### My name is Riyaz Usmanov, I'm working in .Net/C# ⚡
 - 👀 I’m interested in C/C++/C# programmation languages 
-- 🌱 I’m currently learning at 42 school (almost at the end of the common core) created by Xavier Niel
+- 🌱 I’m currently learning at 42 school
 - 💞️ I’m looking to improve my knowledges
 - 📫 You can reach me directly on my [linkedIn](https://www.linkedin.com/in/riyaz-usmanov/)
 <!-- 
