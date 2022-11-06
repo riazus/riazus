@@ -14,4 +14,6 @@ github_dark
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&show_icons=true&theme=github_dark) 
 [![riazus's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazus&count_private=true&show_icons=true&theme=github_dark)]
 
+[![jannabel's 42 stats](https://badge42.vercel.app/api/v2/cla1msnrr00060fl896uvr505/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
+
 ![](https://komarev.com/ghpvc/?username=riazus&label=PROFILE+VIEWS&style=flat-square)
