@@ -7,3 +7,5 @@
 - 🌱 I’m currently learning at 42 school (almost at the end of the common core) created by Xavier Niel
 - 💞️ I’m looking to improve my knowledges
 - 📫 You can reach me directly on my [linkedIn](https://www.linkedin.com/in/riyaz-usmanov/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizus)](https://github.com/anuraghazra/github-readme-stats)
