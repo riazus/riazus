@@ -13,3 +13,5 @@ github_dark
 &theme=radical -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&show_icons=true&theme=github_dark) 
 [![riazus's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazus&count_private=true&show_icons=true&theme=github_dark)]
+
+![](https://komarev.com/ghpvc/?username=riazus&label=PROFILE+VIEWS&style=flat-square)
