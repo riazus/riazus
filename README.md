@@ -8,4 +8,4 @@
 - 💞️ I’m looking to improve my knowledges
 - 📫 You can reach me directly on my [linkedIn](https://www.linkedin.com/in/riyaz-usmanov/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizus)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazus)](https://github.com/anuraghazra/github-readme-stats)
