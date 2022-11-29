@@ -11,7 +11,7 @@
 <!-- 
 github_dark 
 &theme=radical -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&show_icons=true&theme=github_dark)] 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&layout=compact&hide_border=true)](https://github.com/riazus?tab=repositories)] 
 (https://github.com/riazus?tab=repositories)
 ![riazus's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazus&count_private=true&show_icons=true&theme=github_dark)
 
