@@ -11,8 +11,13 @@
 <!-- 
 github_dark 
 &theme=radical -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&layout=compact&hide_border=true)](https://github.com/riazus?tab=repositories)] 
-(https://github.com/riazus?tab=repositories)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&show_icons=true&theme=github_dark)](https://github.com/riazus?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&show_icons=true&theme=github_dark)] 
+(https://github.com/riazus?tab=repositories)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&show_icons=true&theme=github_dark)](https://github.com/riazus?tab=repositories)
+
 ![riazus's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazus&count_private=true&show_icons=true&theme=github_dark)
 
 [![jannabel's 42 stats](https://badge42.vercel.app/api/v2/cla1msnrr00060fl896uvr505/stats?cursusId=21&coalitionId=47)](https://profile.intra.42.fr/users/jannabel)
