@@ -14,6 +14,5 @@ github_dark
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&show_icons=true&theme=github_dark)](https://github.com/riazus?tab=repositories)
 ![riazus's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazus&count_private=true&show_icons=true&theme=github_dark)
 ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riazus&show_icons=true&theme=github_dark)
-[![jannabel's 42 stats](https://badge42.vercel.app/api/v2/cla1msnrr00060fl896uvr505/stats?cursusId=21&coalitionId=47)](https://profile.intra.42.fr/users/jannabel)
 
 ![](https://komarev.com/ghpvc/?username=riazus&label=PROFILE+VIEWS&style=flat-square)
