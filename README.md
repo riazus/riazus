@@ -11,8 +11,6 @@
 <!-- 
 github_dark 
 &theme=radical -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riazus&show_icons=true&theme=github_dark)](https://github.com/riazus?tab=repositories)
-![riazus's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazus&count_private=true&show_icons=true&theme=github_dark)
 ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riazus&show_icons=true&theme=github_dark)
 
 ![](https://komarev.com/ghpvc/?username=riazus&label=PROFILE+VIEWS&style=flat-square)
